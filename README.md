@@ -1,7 +1,14 @@
-Clojush-with-gp-guidance
-========================
+# Clojush
 
-Eddie's Hampshire College CS-254 Final
+A Clojure library designed to ... well, that part is up to you.
 
-Clojush:
-https://github.com/lspector/Clojush
+## Usage
+
+FIXME
+
+## License
+
+Copyright © 2014 FIXME
+
+Distributed under the Eclipse Public License either version 1.0 or (at
+your option) any later version.
