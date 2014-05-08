@@ -3,7 +3,7 @@ Eddie's Hampshire College CS-254 Final
 Clojush:
 https://github.com/lspector/Clojush
 
-The goal of this project is to have the Clojush GP system find the best (problem specific) probabilities for all genetic operators. It does this by recording the change in average error between generations, and moves each operator probability higher or lower by a learning rate value based on which probabilites had the best improvment between generations.
+The goal of this project is to have the Clojush GP system find the best (problem specific) probabilities for all genetic operators. It does this by recording the change in average error between generations, and moves each operator probability higher or lower by a learning rate value based on which probabilities had the best improvement between generations. 
 
 Files I Created
 ===============
