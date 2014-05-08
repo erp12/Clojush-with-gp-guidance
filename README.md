@@ -7,14 +7,18 @@ The goal of this project is have the Clojush GP system find the best (problem sp
 
 Files I Created
 ===============
-gpGuidance / error_and_gp_operator_recording.clj\n
+gpGuidance / error_and_gp_operator_recording.clj
+
 gpGuidance / gp_operator_guiding.clj
 
 Files I Added To
 ================
 pushgp / pushgp.clj
+
   -Added :gp-guidance-learning-rate to the argmap
+  
   -Added modified version of pushgp function called pushgp-with-gp-guidance
   
 pushgp / report.clj
+
   -Added modified version of report-and-check-for-success called report-and-check-for-success-with-gp-guidance
