@@ -7,7 +7,7 @@ The goal of this project is have the Clojush GP system find the best (problem sp
 
 Files I Created
 ===============
-gpGuidance / error_and_gp_operator_recording.clj
+gpGuidance / error_and_gp_operator_recording.clj\n
 gpGuidance / gp_operator_guiding.clj
 
 Files I Added To
